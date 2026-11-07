@@ -1,3 +1,0 @@
-version=1.2
-size=1390096
-sha256=2ecc7aa38db0bfb580c9b81021c32b4a1389d4e89d4fa2a6a5109fade8b9178c
